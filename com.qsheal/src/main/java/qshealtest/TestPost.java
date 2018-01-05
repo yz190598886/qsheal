@@ -29,7 +29,7 @@ public class TestPost {
         HttpResponse response = client.execute(post);
 //                HttpEntity entity = response.getEntity();
         System.out.println("---------------------------------------");
-        System.out.println("cookie:"+EntityUtils.toString(response.getEntity()));
+//        System.out.println("cookie:"+EntityUtils.toString(response.getEntity()));
         System.out.println("---------------------------------------");
         //cookie处理
         CookieStore cookieStore = client.getCookieStore();
