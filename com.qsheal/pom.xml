@@ -70,17 +70,12 @@
           <artifactId>junit</artifactId>
           <version>RELEASE</version>
       </dependency>
+      <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
       <dependency>
-          <groupId>junit</groupId>
-          <artifactId>junit</artifactId>
-          <version>RELEASE</version>
+          <groupId>mysql</groupId>
+          <artifactId>mysql-connector-java</artifactId>
+          <version>6.0.6</version>
       </dependency>
-      <dependency>
-          <groupId>junit</groupId>
-          <artifactId>junit</artifactId>
-          <version>RELEASE</version>
-      </dependency>
-
 
   </dependencies>
 </project>
