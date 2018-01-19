@@ -52,19 +52,26 @@
       <version>4.5.4</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/commons-httpclient/commons-httpclient -->
-    <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
-    <dependency>
-      <groupId>org.apache.httpcomponents</groupId>
-      <artifactId>httpcore</artifactId>
-      <version>4.4.8</version>
-    </dependency>
-      <!-- https://mvnrepository.com/artifact/net.sf.json-lib/json-lib -->
+    <!--&lt;!&ndash; https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore &ndash;&gt;-->
+    <!--<dependency>-->
+      <!--<groupId>org.apache.httpcomponents</groupId>-->
+      <!--<artifactId>httpcore</artifactId>-->
+      <!--<version>4.4.8</version>-->
+    <!--</dependency>-->
+      <!--&lt;!&ndash; https://mvnrepository.com/artifact/net.sf.json-lib/json-lib &ndash;&gt;-->
+      <!--<dependency>-->
+          <!--<groupId>net.sf.json-lib</groupId>-->
+          <!--<artifactId>json-lib</artifactId>-->
+          <!--<version>2.4</version>-->
+          <!--<classifier>jdk15</classifier>-->
+      <!--</dependency>-->
+      <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
       <dependency>
-          <groupId>net.sf.json-lib</groupId>
-          <artifactId>json-lib</artifactId>
-          <version>2.4</version>
-          <classifier>jdk15</classifier>
+          <groupId>com.alibaba</groupId>
+          <artifactId>fastjson</artifactId>
+          <version>1.2.44</version>
       </dependency>
+
       <dependency>
           <groupId>junit</groupId>
           <artifactId>junit</artifactId>
