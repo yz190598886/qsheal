@@ -1,4 +1,4 @@
-package qshealtest;
+package Method;
 import java.sql.*;
 
 public class jdbc {
