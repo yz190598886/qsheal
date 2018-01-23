@@ -21,17 +21,17 @@ public class jdbc {
 //        ps.executeUpdate();
 
 //    }
-//    public String getuid(String idcard) throws SQLException{
-//        //查询
-//        String uid="";
-//        sql="SELECT id FROM qsheal_health_new.user where idCard='"+idcard+"'";
-//        ps=(PreparedStatement) conn.prepareStatement(sql);
-//        rs=ps.executeQuery();
-//        while(rs.next()){
-//            uid=rs.getString(1);
-//        }
-//        return uid;
-//    }
+    public String getuid(String idcard) throws SQLException{
+        //查询
+        String uid="";
+        sql="SELECT id FROM qsheal_health_new.user where idCard='"+idcard+"'";
+        ps=(PreparedStatement) conn.prepareStatement(sql);
+        rs=ps.executeQuery();
+        while(rs.next()){
+            uid=rs.getString(1);
+        }
+        return uid;
+    }
         public void startTime() throws SQLException{
             String time="";
             sql="SELECT start_time from assist_pai_orders where  item_id=8761 and uid=(SELECT id from `user` where idCard='971513191701170177')  order by start_time DESC LIMIT 1";
