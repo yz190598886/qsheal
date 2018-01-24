@@ -11,7 +11,7 @@ import org.apache.commons.httpclient.methods.PostMethod;
 
 import java.io.IOException;
 
-public class GetCookie {
+public class HttpRequest {
     public String getTmpcookies(String loginurl) throws IOException {
         String tmpcookies = "";
         HttpClient httpClient = new HttpClient();
@@ -39,12 +39,13 @@ public class GetCookie {
         return tmpcookies;
     }
 
-    public String postMerhod(String httpurl,String cookie) throws IOException {
+    public String postMethod(String httpurl,String cookie) throws IOException {
         HttpClient httpClient = new HttpClient();
         PostMethod postMethod1 = new PostMethod(httpurl);
         postMethod1.setRequestHeader("cookie", cookie);
         httpClient.executeMethod(postMethod1);
         String posttxt = postMethod1.getResponseBodyAsString();
+        System.out.println(posttxt);
         return posttxt;
 
     }
@@ -55,15 +56,15 @@ public class GetCookie {
         getMethod1.setRequestHeader("cookie", cookie);
         httpClient1.executeMethod(getMethod1);
         String gettxt = getMethod1.getResponseBodyAsString();
+        System.out.println(gettxt);
         return gettxt;
 
     }
 
-    public void fhyz(String jsondata) throws IOException {
+    public String Jsonvalue(String jsondata,String key) throws IOException {
                 JSONObject json= JSON.parseObject(jsondata);
-                String first=json.get("pageView").toString();//取第一层
-                JSONObject json1= JSON.parseObject(first);
-                String two=json1.get("rowCount").toString();//取第二层
-                System.out.println("个人会员人数："+two);
-    }
+                String first=json.get(key).toString();
+                System.out.println(first);
+                return first;
+}
 }
