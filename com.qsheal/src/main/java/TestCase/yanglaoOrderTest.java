@@ -11,7 +11,7 @@ import java.util.Date;
 import static org.junit.Assert.assertEquals;
 
 public class yanglaoOrderTest {
-    private static Logger log = Logger.getLogger(HttpRequest.class);
+    private static Logger log = Logger.getLogger(yanglaoOrderTest.class);
     public String name(){
             SimpleDateFormat sdf = new SimpleDateFormat("MMddHHmmss");
         //    System.out.println(sdf.format(new Date()));
