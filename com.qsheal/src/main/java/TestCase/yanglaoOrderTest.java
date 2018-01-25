@@ -35,7 +35,7 @@ public class yanglaoOrderTest {
             System.out.println("政府端登陆获取cookie--------------------------");
             HttpRequest ZFHttp=new HttpRequest();
             String ZFcookie=ZFHttp.getTmpcookies(ZFloginurl);
-            log.info(ZFHttp.postMethod(addUserurl,ZFcookie));//添加老人
+            log.debug(ZFHttp.postMethod(addUserurl,ZFcookie));//添加老人
 
             String SqlUid="SELECT id from user where idCard='"+idC+"'";//SQL书写+++++++++++
             jdbc jdbc=new jdbc();
@@ -44,7 +44,7 @@ public class yanglaoOrderTest {
             String charge="https://test.chinaylzl.com/Balance/SingleRecharge?uid="+Uid+"&balance=1000&remark=0&source=";
             String yue="https://test.chinaylzl.com/surveyUser/userListFinance?uid="+Uid+"&_=1516695813599";
             System.out.println("积分充分--------------------------");
-            log.info(ZFHttp.postMethod(charge,ZFcookie));//充分
+            log.debug(ZFHttp.postMethod(charge,ZFcookie));//充分
             String first=ZFHttp.Jsonvalue(ZFHttp.getMethod(yue,ZFcookie),"data");
             System.out.println("余额："+first);
             assertEquals("余额：","1000.00",first);
@@ -56,14 +56,14 @@ public class yanglaoOrderTest {
             String QYcookie=QYHttp.getTmpcookies(DYloginurl);
 
             System.out.println("创建订单---------------------");
-            log.info(QYHttp.postMethod(Orderurl,QYcookie));//创建订单
+            log.debug(QYHttp.postMethod(Orderurl,QYcookie));//创建订单
 
             String SqlOrderId="SELECT order_id from assist_pai_orders where uid=(SELECT id from user where idCard='"+idC+"')";
             String OrderId=jdbc.getSearchResult(SqlOrderId);
             String paidanurl="https://test1.chinaylzl.com/serviceRecord/saveServiceRecord?buid=736&orderId="+OrderId;
 
             System.out.println("派工----------------------------");
-            log.info(QYHttp.postMethod(paidanurl,QYcookie));//派工
+            log.debug(QYHttp.postMethod(paidanurl,QYcookie));//派工
 
             String Orderlisturl="https://test1.chinaylzl.com/user/api/queryWaitServiceList?startRow=0&buid=736";
             QYHttp.getMethod(Orderlisturl,QYcookie);
@@ -76,16 +76,16 @@ public class yanglaoOrderTest {
             String startServiceurl="https://test1.chinaylzl.com/user/api/startService&startPosition=104.081906%2C30.546332&orderId="+OrderId;
 
             System.out.println("开始服务----------------------------");
-            log.info(AppHttp.postMethod(startServiceurl,Appcookie));//开始服务，上传坐标
+            log.debug(AppHttp.postMethod(startServiceurl,Appcookie));//开始服务，上传坐标
 
             String completeServiceUrl="https://test1.chinaylzl.com/user/api/completeService?type=2&images=https%3A%2F%2Ffile.chinaylzl.com%2Ftest%2FserviceImages%2F2018%2F01%2F24%2F39f1efaf23ed4299b962289714207202.jpg&endPosition=104.081902%2C30.546354&orderId="+OrderId;
 
             System.out.println("完成服务----------------------------");
-            log.info(AppHttp.postMethod(completeServiceUrl,Appcookie));
+            log.debug(AppHttp.postMethod(completeServiceUrl,Appcookie));
 
             System.out.println("满意度----------------------------");
             String updateServiceDegreeUrl="https://test1.chinaylzl.com/user/api/updateServiceDegree?degree=80&orderId="+OrderId;
-            log.info(AppHttp.postMethod(updateServiceDegreeUrl,Appcookie));
+            log.debug(AppHttp.postMethod(updateServiceDegreeUrl,Appcookie));
 
 
 
