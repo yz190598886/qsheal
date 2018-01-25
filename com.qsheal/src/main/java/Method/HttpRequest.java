@@ -9,9 +9,11 @@ import org.apache.commons.httpclient.cookie.CookiePolicy;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
 
+
 import java.io.IOException;
 
 public class HttpRequest {
+
     public String getTmpcookies(String loginurl) throws IOException {
         String tmpcookies = "";
         HttpClient httpClient = new HttpClient();
@@ -45,7 +47,6 @@ public class HttpRequest {
         postMethod1.setRequestHeader("cookie", cookie);
         httpClient.executeMethod(postMethod1);
         String posttxt = postMethod1.getResponseBodyAsString();
-        System.out.println(posttxt);
         return posttxt;
 
     }
@@ -56,7 +57,6 @@ public class HttpRequest {
         getMethod1.setRequestHeader("cookie", cookie);
         httpClient1.executeMethod(getMethod1);
         String gettxt = getMethod1.getResponseBodyAsString();
-        System.out.println(gettxt);
         return gettxt;
 
     }
@@ -64,7 +64,6 @@ public class HttpRequest {
     public String Jsonvalue(String jsondata,String key) throws IOException {
                 JSONObject json= JSON.parseObject(jsondata);
                 String first=json.get(key).toString();
-                System.out.println(first);
                 return first;
 }
 }
