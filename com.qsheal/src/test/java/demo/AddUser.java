@@ -11,9 +11,7 @@ public class AddUser {
         XueyuanAdd xueyuanAdd =new XueyuanAdd();
             xueyuanAdd.addUser();
     }
-public void two(){
 
-}
 }
 
 

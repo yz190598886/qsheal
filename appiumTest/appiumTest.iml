@@ -19,6 +19,10 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.9.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.48" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -31,14 +35,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../资料/selenium-java-3.4.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/资料/selenium-java-3.4.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.9.10" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.48" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
   </component>
 </module>
