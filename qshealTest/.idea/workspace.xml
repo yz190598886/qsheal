@@ -2,65 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501bfc59-6d4b-4831-ac71-66d467eafad9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../appiumTest/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appiumTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../appiumTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appiumTest/appiumTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../appiumTest/appiumTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appiumTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../appiumTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../appiumTest/src/test/java/appiumTest/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../appiumTest/src/test/java/appiumTest/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__com_alibaba_fastjson_1_2_44.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/qshealtest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/CountdownLatchTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/Method/HttpRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/Method/IdCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/Method/Params.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/Method/jdbc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/TestCase/XueyuanAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/TestCase/yanglaoOrderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/ThreadT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/main/java/threadTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/resource/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/test/java/demo/ATest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/src/test/java/demo/AddUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/CountdownLatchTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/CountdownLatchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/Method/HttpRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/Method/IdCard$Id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/Method/IdCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/Method/Params.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/Method/jdbc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/TestCase/XueyuanAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/TestCase/yanglaoOrderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/ThreadT$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/ThreadT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/threadTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/classes/threadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/surefire-reports/TEST-demo.ATest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/surefire-reports/demo.ATest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/test-classes/demo/ATest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.qsheal/target/test-classes/demo/AddUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/ATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demo/ATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +20,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="102" column="19" lean-forward="true" selection-start-line="102" selection-start-column="19" selection-end-line="102" selection-end-column="19" />
+            <state relative-caret-position="-132">
+              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -93,11 +38,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ATest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ATest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/demo/ATest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xml/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtentTestNGIReporterListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Method/ExtentTestNGIReporterListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="192" column="34" selection-start-line="192" selection-start-column="34" selection-end-line="192" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="threadTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/threadTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Method/HttpRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yanglaoOrderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1125">
+              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XueyuanAdd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,73 +119,6 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-output/index.html">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resource/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExtentTestNGIReporterListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Method/ExtentTestNGIReporterListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1492">
-              <caret line="192" column="34" selection-start-line="192" selection-start-column="34" selection-end-line="192" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountdownLatchTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CountdownLatchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-              <folding>
-                <element signature="e#752#1587#0" expanded="true" />
-                <element signature="e#1586#1587#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadT.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ThreadT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yanglaoOrderTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="39" column="75" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpRequest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Method/HttpRequest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -194,13 +138,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Method/IdCard.java" />
         <option value="$PROJECT_DIR$/src/test/java/demo/AddUser.java" />
-        <option value="$PROJECT_DIR$/src/test/java/demo/ATest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Method/asdsada.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/xml/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java" />
+        <option value="$PROJECT_DIR$/xml/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/demo/ATest.java" />
       </list>
     </option>
   </component>
@@ -238,7 +182,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -250,6 +194,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,13 +269,16 @@
               <item name="qshealTest" type="462c0819:PsiDirectoryNode" />
               <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="qshealtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qshealTest" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ATest">
+  <component name="RunManager" selected="TestNG.C:/Users/youth/Desktop/qsheal/qshealTest/xml/testng.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -411,6 +360,35 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="ATest.ss" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qshealtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.ATest" />
+      <option name="METHOD_NAME" value="ss" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -516,12 +494,14 @@
       <item itemvalue="TestNG.C:/Users/youth/Desktop/qsheal/qshealTest/xml/testng.xml" />
       <item itemvalue="TestNG.ATest.yuepanduan" />
       <item itemvalue="TestNG.ATest" />
+      <item itemvalue="TestNG.ATest.ss" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/youth/Desktop/qsheal/qshealTest/xml/testng.xml" />
+        <item itemvalue="TestNG.ATest.ss" />
         <item itemvalue="TestNG.ATest" />
         <item itemvalue="TestNG.ATest.yuepanduan" />
-        <item itemvalue="TestNG.C:/Users/youth/Desktop/qsheal/qshealTest/xml/testng.xml" />
         <item itemvalue="Application.IdCard$Id" />
       </list>
     </recent_temporary>
@@ -544,23 +524,20 @@
       <workItem from="1522291452376" duration="77000" />
       <workItem from="1522738192145" duration="1217000" />
       <workItem from="1522739489433" duration="2764000" />
-      <workItem from="1522742258823" duration="683000" />
+      <workItem from="1522742258823" duration="951000" />
+      <workItem from="1522743245395" duration="3199000" />
     </task>
+    <task id="LOCAL-00001" summary="43">
+      <created>1522743148175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522743148175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ATest - 2018.04.03 at 15h 44m 56s.xml">
-      <configuration name="ATest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ATest - 2018.04.03 at 15h 50m 15s.xml">
-      <configuration name="ATest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ATest - 2018.04.03 at 15h 51m 38s.xml">
-      <configuration name="ATest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ATest - 2018.04.03 at 15h 53m 06s.xml">
-      <configuration name="ATest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ATest - 2018.04.03 at 15h 58m 40s.xml">
       <configuration name="ATest" configurationId="TestNG" />
     </history-entry>
@@ -579,9 +556,21 @@
     <history-entry file="ATest - 2018.04.03 at 16h 03m 06s.xml">
       <configuration name="ATest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ATest_ss - 2018.04.03 at 16h 59m 35s.xml">
+      <configuration name="ATest.ss" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_youth_Desktop_qsheal_qshealTest_xml_testng_xml - 2018.04.03 at 16h 59m 58s.xml">
+      <configuration name="C:/Users/youth/Desktop/qsheal/qshealTest/xml/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_youth_Desktop_qsheal_qshealTest_xml_testng_xml - 2018.04.03 at 17h 00m 55s.xml">
+      <configuration name="C:/Users/youth/Desktop/qsheal/qshealTest/xml/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_youth_Desktop_qsheal_qshealTest_xml_testng_xml - 2018.04.03 at 17h 01m 12s.xml">
+      <configuration name="C:/Users/youth/Desktop/qsheal/qshealTest/xml/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6807000" />
+    <option name="totallyTimeSpent" value="10274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,11 +595,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.098614074" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32997763" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49608064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34042552" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.15901455" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20948827" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -631,6 +620,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="43" />
+    <option name="LAST_COMMIT_MESSAGE" value="43" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
@@ -874,17 +867,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Method/Params.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="50">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml" />
+    <entry file="file://$PROJECT_DIR$/src/resource/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountdownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Method/jdbc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1109">
+        <state relative-caret-position="25">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -892,10 +899,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Method/Params.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="93">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -906,10 +913,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Method/ExtentTestNGIReporterListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="817">
+          <caret line="192" column="34" selection-start-line="192" selection-start-column="34" selection-end-line="192" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -923,55 +930,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadT.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountdownLatchTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        <state relative-caret-position="-1125">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
           <folding>
-            <element signature="e#752#1587#0" expanded="true" />
-            <element signature="e#1586#1587#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Method/HttpRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="368">
+          <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="102" column="19" lean-forward="true" selection-start-line="102" selection-start-column="19" selection-end-line="102" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Method/ExtentTestNGIReporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1492">
-          <caret line="192" column="34" selection-start-line="192" selection-start-column="34" selection-end-line="192" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -985,23 +970,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demo/ATest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-132">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
+    <entry file="file://$PROJECT_DIR$/test-output/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="39" column="75" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
+        <state relative-caret-position="150">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/demo/ATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

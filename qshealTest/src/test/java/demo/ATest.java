@@ -10,6 +10,5 @@ public class ATest {
         yanglaoOrderTest yanglaoOrderTest=new yanglaoOrderTest();
         yanglaoOrderTest.adduser();
     }
-
 }
 
