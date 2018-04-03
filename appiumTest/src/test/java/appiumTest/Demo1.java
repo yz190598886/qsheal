@@ -34,7 +34,9 @@ public class Demo1 {
         driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);//把以上配置传到appium服务端并连接手机
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);//隐式等待
     }
+    public void clearText(){
 
+   }
     @Test
     public void  doOne() {
 
