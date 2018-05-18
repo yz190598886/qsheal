@@ -8,7 +8,10 @@ public class AddUser {
     @Test
     public void one() throws IOException {
         XueyuanAdd xueyuanAdd =new XueyuanAdd();
-            xueyuanAdd.addUser();
+            for (int i=0;i<20;i++)
+            {
+                xueyuanAdd.addUser();
+            }
     }
 
 }
