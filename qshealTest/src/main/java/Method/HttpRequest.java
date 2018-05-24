@@ -41,6 +41,13 @@ public class HttpRequest {
         return tmpcookies;
     }
 
+        public String login(String LoginUrl,String Par) throws IOException {
+         String login=LoginUrl+Par;
+         PostMethod postMethod= new PostMethod(login);
+         String LoginTxt=postMethod.getResponseBodyAsString();
+         return LoginTxt;
+
+    }
     public String postMethod(String httpurl,String cookie) throws IOException {
         HttpClient httpClient = new HttpClient();
         PostMethod postMethod1 = new PostMethod(httpurl);

@@ -11,6 +11,16 @@ public class Params {
     private String idCard;
     private String userCode;
 
+    public String getParameter() {
+        return parameter;
+    }
+
+    public void setParameter(String parameter) {
+        this.parameter = parameter;
+    }
+
+    private String parameter;
+
     public String getPhone() {
         return phone;
     }

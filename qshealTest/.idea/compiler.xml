@@ -9,8 +9,5 @@
         <module name="qshealtest" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="qshealtest" target="6" />
-    </bytecodeTargetLevel>
   </component>
 </project>
