@@ -8,6 +8,7 @@ import org.apache.commons.httpclient.HttpException;
 import org.apache.commons.httpclient.cookie.CookiePolicy;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
+import org.testng.Assert;
 
 
 import java.io.IOException;
@@ -20,7 +21,6 @@ public class HttpRequest {
         //获得POST请求方法
         PostMethod postMethod = new PostMethod(loginurl);
         //       postMethod.setRequestBody(data);
-
         try {
             //设置 HttpClient 接收 Cookie,用与浏览器一样的策略
             httpClient.getParams().setCookiePolicy(CookiePolicy.BROWSER_COMPATIBILITY);
@@ -42,19 +42,24 @@ public class HttpRequest {
     }
 
         public String login(String LoginUrl,String Par) throws IOException {
-         String login=LoginUrl+Par;
+         String login=LoginUrl+"?"+Par;
+         HttpClient httpClient = new HttpClient();
          PostMethod postMethod= new PostMethod(login);
+         int code=httpClient.executeMethod(postMethod);
+//         Assert.assertEquals(code,303,"登录失败");
+//         System.out.println("code为："+code);
          String LoginTxt=postMethod.getResponseBodyAsString();
-         return LoginTxt;
+//         System.out.println("返回为："+LoginTxt);
+         return code+LoginTxt;
 
     }
     public String postMethod(String httpurl,String cookie) throws IOException {
         HttpClient httpClient = new HttpClient();
         PostMethod postMethod1 = new PostMethod(httpurl);
         postMethod1.setRequestHeader("cookie", cookie);
-        httpClient.executeMethod(postMethod1);
+        int code=httpClient.executeMethod(postMethod1);
         String posttxt = postMethod1.getResponseBodyAsString();
-        return posttxt;
+        return code+posttxt;
 
     }
 
@@ -62,9 +67,9 @@ public class HttpRequest {
         HttpClient httpClient1 = new HttpClient();
         GetMethod getMethod1 = new GetMethod(httpurl);
         getMethod1.setRequestHeader("cookie", cookie);
-        httpClient1.executeMethod(getMethod1);
+        int code = httpClient1.executeMethod(getMethod1);
         String gettxt = getMethod1.getResponseBodyAsString();
-        return gettxt;
+        return code+gettxt;
 
     }
 

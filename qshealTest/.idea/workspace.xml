@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501bfc59-6d4b-4831-ac71-66d467eafad9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qshealtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qshealtest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Method/HttpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Method/HttpRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Method/Params.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Method/Params.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demo/AddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demo/AddUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/InterfaceAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demo/InterfaceAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountdownLatchTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CountdownLatchTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountdownLatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CountdownLatchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Method/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Method/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Method/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Method/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Method/HttpRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Method/HttpRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Method/IdCard$Id.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Method/IdCard$Id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Method/IdCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Method/IdCard.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Method/Params.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Method/Params.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Method/jdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Method/jdbc.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/TestCase/XueyuanAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestCase/XueyuanAdd.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/TestCase/yanglaoOrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestCase/yanglaoOrderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadT$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadT$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/threadTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/threadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demo/ATest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demo/ATest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demo/AddUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demo/AddUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demo/InterfaceAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demo/InterfaceAutomation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demo/testMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demo/testMock.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +34,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="qshealtest" />
   </component>
@@ -30,8 +56,8 @@
       <file leaf-file-name="AddUser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/demo/AddUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="322">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,7 +77,7 @@
       <file leaf-file-name="yanglaoOrderTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504">
+            <state relative-caret-position="736">
               <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="39" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -63,7 +89,7 @@
       <file leaf-file-name="Params.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Method/Params.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="483">
               <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="e#262#263#0" expanded="true" />
@@ -78,29 +104,28 @@
       <file leaf-file-name="XueyuanAdd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+            <state relative-caret-position="1081">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InterfaceAutomation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InterfaceAutomation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/demo/InterfaceAutomation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+            <state relative-caret-position="253">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#258#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
+            <state relative-caret-position="14145">
               <caret line="652" selection-start-line="652" selection-end-line="652" />
             </state>
           </provider>
@@ -109,8 +134,8 @@
       <file leaf-file-name="ATest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/demo/ATest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="230">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +146,8 @@
       <file leaf-file-name="HttpRequest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Method/HttpRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="482">
+              <caret line="75" column="52" lean-forward="true" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,7 +158,7 @@
       <file leaf-file-name="CountdownLatchTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CountdownLatchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="821">
+            <state relative-caret-position="943">
               <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
             </state>
           </provider>
@@ -213,7 +238,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -227,9 +252,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -343,22 +368,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.InterfaceAutomation">
+  <component name="RunManager" selected="TestNG.InterfaceAutomation.run (3)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
-    </configuration>
-    <configuration name="IdCard$Id" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method.IdCard$Id" />
-      <module name="qshealtest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -379,65 +393,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AddUser" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qshealtest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.AddUser" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="AddUser.one" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qshealtest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.AddUser" />
-      <option name="METHOD_NAME" value="one" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="InterfaceAutomation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="InterfaceAutomation (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qshealtest" />
       <extension name="coverage">
         <pattern>
@@ -453,6 +409,93 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="InterfaceAutomation.run (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qshealtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.InterfaceAutomation" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="InterfaceAutomation.run (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qshealtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.InterfaceAutomation" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="InterfaceAutomation.run (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qshealtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.InterfaceAutomation" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -518,19 +561,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.IdCard$Id" />
-      <item itemvalue="TestNG.AddUser.one" />
-      <item itemvalue="TestNG.AddUser" />
+      <item itemvalue="TestNG.InterfaceAutomation (1)" />
       <item itemvalue="TestNG.InterfaceAutomation.run" />
-      <item itemvalue="TestNG.InterfaceAutomation" />
+      <item itemvalue="TestNG.InterfaceAutomation.run (1)" />
+      <item itemvalue="TestNG.InterfaceAutomation.run (2)" />
+      <item itemvalue="TestNG.InterfaceAutomation.run (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.InterfaceAutomation" />
+        <item itemvalue="TestNG.InterfaceAutomation.run (3)" />
+        <item itemvalue="TestNG.InterfaceAutomation.run (2)" />
+        <item itemvalue="TestNG.InterfaceAutomation (1)" />
         <item itemvalue="TestNG.InterfaceAutomation.run" />
-        <item itemvalue="TestNG.AddUser.one" />
-        <item itemvalue="TestNG.AddUser" />
-        <item itemvalue="Application.IdCard$Id" />
+        <item itemvalue="TestNG.InterfaceAutomation.run (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -564,6 +607,8 @@
       <workItem from="1527133597454" duration="303000" />
       <workItem from="1527142811877" duration="1302000" />
       <workItem from="1527144146400" duration="2798000" />
+      <workItem from="1527210481139" duration="8683000" />
+      <workItem from="1527231069678" duration="2491000" />
     </task>
     <task id="LOCAL-00001" summary="43">
       <created>1522743148175</created>
@@ -576,39 +621,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddUser - 2018.05.17 at 16h 12m 20s.xml">
-      <configuration name="AddUser" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_(1) - 2018.05.25 at 15h 26m 35s.xml">
+      <configuration name="InterfaceAutomation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser - 2018.05.17 at 16h 15m 50s.xml">
-      <configuration name="AddUser" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_(1) - 2018.05.25 at 15h 26m 58s.xml">
+      <configuration name="InterfaceAutomation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser - 2018.05.17 at 16h 21m 17s.xml">
-      <configuration name="AddUser" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_(1) - 2018.05.25 at 15h 32m 02s.xml">
+      <configuration name="InterfaceAutomation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser - 2018.05.17 at 18h 24m 47s.xml">
-      <configuration name="AddUser" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_run - 2018.05.25 at 15h 33m 53s.xml">
+      <configuration name="InterfaceAutomation.run" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser_one - 2018.05.17 at 15h 57m 08s.xml">
-      <configuration name="AddUser.one" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_(1) - 2018.05.25 at 15h 34m 32s.xml">
+      <configuration name="InterfaceAutomation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser_one - 2018.05.17 at 15h 58m 50s.xml">
-      <configuration name="AddUser.one" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_(1) - 2018.05.25 at 15h 35m 09s.xml">
+      <configuration name="InterfaceAutomation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser_one - 2018.05.17 at 18h 24m 16s.xml">
-      <configuration name="AddUser.one" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_(1) - 2018.05.25 at 15h 36m 49s.xml">
+      <configuration name="InterfaceAutomation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser_one - 2018.05.17 at 18h 24m 21s.xml">
-      <configuration name="AddUser.one" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_(1) - 2018.05.25 at 15h 38m 10s.xml">
+      <configuration name="InterfaceAutomation (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddUser_one - 2018.05.24 at 14h 36m 48s.xml">
-      <configuration name="AddUser.one" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_run_(2) - 2018.05.25 at 15h 41m 23s.xml">
+      <configuration name="InterfaceAutomation.run (2)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="InterfaceAutomation - 2018.05.24 at 18h 06m 20s.xml">
-      <configuration name="InterfaceAutomation" configurationId="TestNG" />
+    <history-entry file="InterfaceAutomation_run_(3) - 2018.05.25 at 15h 42m 20s.xml">
+      <configuration name="InterfaceAutomation.run (3)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25056000" />
+    <option name="totallyTimeSpent" value="36230000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -620,31 +665,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.18320611" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.44601962" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13752665" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.041577823" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25408942" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1821156" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -662,6 +707,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="43" />
     <option name="LAST_COMMIT_MESSAGE" value="43" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/CountdownLatchTest.java">
@@ -927,19 +981,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="39" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CountdownLatchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
+        <state relative-caret-position="943">
           <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
         </state>
       </provider>
@@ -951,20 +995,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demo/ATest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="14145">
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/demo/AddUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demo/AddUser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/yanglaoOrderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="736">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="39" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -973,7 +1024,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Method/Params.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="483">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="e#262#263#0" expanded="true" />
@@ -986,15 +1037,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestCase/XueyuanAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+        <state relative-caret-position="1081">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/demo/ATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Method/HttpRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="482">
+          <caret line="75" column="52" lean-forward="true" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1003,19 +1064,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/demo/InterfaceAutomation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#258#266#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="652" selection-start-line="652" selection-end-line="652" />
         </state>
       </provider>
     </entry>

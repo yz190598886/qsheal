@@ -10,12 +10,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class InterfaceAutomation{
-    private static List<Params> list = new ArrayList<Params>();
+    int i=0;
+    private static List<Params> list = new ArrayList<>();
     public void file() throws IOException {
         File file = new File("H:\\1.txt");
         BufferedReader bufferedReader =new BufferedReader(new FileReader(file));
-        String txt=bufferedReader.readLine();
-    while (txt!=null){
+        String txt="";
+    while( (txt=bufferedReader.readLine())!=null){
+        i++;
       Params params= new Params();
       String [] a=txt.split(",");
       params.setUrl(a[0]);
@@ -26,8 +28,11 @@ public class InterfaceAutomation{
  @Test
     public void run() throws IOException {
         HttpRequest httpRequest=new HttpRequest();
-         String one= httpRequest.login(list.get(0).getUrl(),list.get(0).getParameter());
-         String two=httpRequest.login(list.get(1).getUrl(),list.get(1).getParameter());
+        file();
+        for (int a=0;a<i;a++){
+             String CodeBack=httpRequest.login(list.get(a).getUrl(),list.get(a).getParameter());
+             System.out.println(CodeBack.substring(0,3)+"-------"+CodeBack.substring(3));
+         }
 
     }
 }
