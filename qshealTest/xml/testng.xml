@@ -5,8 +5,8 @@
 
         <!--<parameter name="para" value="12235"/>-->
         <classes>
-            <class name="demo.ATest">
-                <methods><include name="yuepanduan"/></methods>
+            <class name="demo.InterfaceTest">
+                <!--<methods><include name="yuepanduan"/></methods>-->
             </class>
         </classes>
     </test>

@@ -46,10 +46,7 @@ public class HttpRequest {
          HttpClient httpClient = new HttpClient();
          PostMethod postMethod= new PostMethod(login);
          int code=httpClient.executeMethod(postMethod);
-//         Assert.assertEquals(code,303,"登录失败");
-//         System.out.println("code为："+code);
          String LoginTxt=postMethod.getResponseBodyAsString();
-//         System.out.println("返回为："+LoginTxt);
          return code+LoginTxt;
 
     }
